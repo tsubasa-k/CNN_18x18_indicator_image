@@ -113,10 +113,3 @@ pip install yfinance finta keras tensorflow
 最大虧損: -XX.XX%
 ```
 
----
-
-## 參考資料
-
-- 技術指標計算：[ChatGPT ShareGPT 對話](https://sharegpt.com/c/CTyoQQ2)
-- 回測框架：[ChatGPT ShareGPT 對話](https://shareg.pt/wQwSsaA)
-- 原始參考 Notebook：[CNN_15_TA_startegy.ipynb](https://github.com/skywalker0803r/telegram-investment-advice-bot/blob/main/CNN_15_TA_startegy.ipynb)
